@@ -18,8 +18,13 @@
     		
     		<ui:define name="footer">
     			<h2>This is page1 Footer</h2>
+<<<<<<< HEAD
     			Footer Antoine, modification ...
+    			Antoine modif ...
+=======
+    			Footer Liliane ... modification ...
     			Antoine modif annule ...
+>>>>>>> 46c73f885e1801fcce03cf7b136ae4666cb3dd31
     		</ui:define>
     		
     	</ui:composition>
